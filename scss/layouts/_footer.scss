@@ -1,0 +1,32 @@
+footer {
+    background-color: var(--footer-bg-color);
+    padding: 1rem;
+
+    .sci {
+        display: flex;
+        gap: 15px;
+        font-size: 2rem;
+    }
+
+    a {
+        color: var(--text-color);
+        text-align: center;
+    }
+
+    p {
+        color: gray;
+    }
+
+    .navbar-footer {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+
+        .nav-menu {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+    }
+
+    padding-bottom: 4rem;
+}

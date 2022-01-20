@@ -1,0 +1,17 @@
+:root {
+    --main-bg-color: #F7F7F7;
+    --primary-color: #017143;
+    --primary-color-lighter: #008248;
+    --primary-color-darker: #014143;
+    --header-bg-color: #fff;
+    --footer-bg-color: #fff;
+    --text-color: #333;
+    --text-color-light: #fff;
+    --article-title-color: #333;
+    --article-text-color: #555;
+}
+
+body.theme-dark {
+    --main-bg-color: #262626;
+    --text-color: #fff;
+}
